@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2623
+
+Highlights a basic todo list  
+
+Dates of the form dd/mm/yy are highlighted
+
+Major comments are marked with ==> at the begining of the item
+Minor comments are marked with --> at the begining of the item
+
+TODO, INPROGRESS  and DONE are all highlighted differently and if comments are required with the status then these can be highlighted by writing in the form:
+
+**DONE this job is done and this is its comment**
+
+for an example look at
+http://www.mth.kcl.ac.uk/~matturry/todo.png
